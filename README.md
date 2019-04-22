@@ -1,0 +1,1 @@
+# quine-mccluskey-method
